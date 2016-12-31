@@ -13,4 +13,4 @@ pip install -r https://raw.githubusercontent.com/SupaStuff/599_hw/master/4/requi
 deactivate
 ```
 Now you can run the notebook the usual way. In the parts where mrjob is
-required, the cells will activate this environment to run the script.
+required, I have cells that activate this environment to run the script.
